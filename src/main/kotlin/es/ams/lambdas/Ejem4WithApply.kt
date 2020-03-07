@@ -56,4 +56,5 @@ fun example1Apply(){
 
 fun main() {
     example1With()
+    example1Apply()
 }
